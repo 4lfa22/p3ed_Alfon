@@ -7,7 +7,7 @@ package pruebapersona;
 import java.util.regex.Pattern;
 
 public class Persona {
-
+//estos son los nuevos comentarios
     private String dni;
     private String nombre;
     private String apellidos;
